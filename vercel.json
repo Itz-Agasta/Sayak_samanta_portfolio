@@ -1,8 +1,0 @@
-{
-    "buildCommand": "yarn install --check-files && yarn build",
-    "build": {
-      "env": {
-        "YARN": "true"
-      }
-    }
-  }
