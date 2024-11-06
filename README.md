@@ -1,5 +1,5 @@
-# Portfolio of Sudip shaw
-This is Sudip shaw'spersonal portfolio website built with React, TypeScript, and styled-components. It showcases his skills, projects, and contact information.
+# Portfolio of Sayak Samanta
+This is Sayak samanta'spersonal portfolio website built with React, TypeScript, and styled-components. It showcases his skills, projects, and contact information.
 
 ## Table of Contents
 
